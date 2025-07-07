@@ -79,10 +79,10 @@ That's it! No complex configuration files, no mysterious environment variables, 
 - **Performance**: Large schemas (hundreds of tables) might make the interface sluggish. The search helps, but there's room for optimization.
 
 ## Screenshots
-![Home Page](images/Screenshot from 2025-07-07 17-51-04.png)
-![Login Successful](images/Screenshot from 2025-07-07 18-11-48.png)
-![Browse Schema](images/Screenshot from 2025-07-07 18-11-54.png)
-![AI Chat](images/Screenshot from 2025-07-07 18-12-01.png)
+![Home Page](images/Screenshot%20from%202025-07-07%2017-51-04.png)
+![Login Successful](images/Screenshot%20from%202025-07-07%2018-11-48.png)
+![Browse Schema](images/Screenshot%20from%202025-07-07%2018-11-54.png)
+![AI Chat](images/Screenshot%20from%202025-07-07%2018-12-01.png)
 
 ## Future Enhancements
 
