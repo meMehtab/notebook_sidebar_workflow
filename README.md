@@ -18,7 +18,7 @@ Notebook lets you connect to your databases (PostgreSQL and MySQL for now), brow
 
 1. Clone this repository:
 ```bash
-git clone [https://github.com/meMehtab/notebook_sidebar_workflow](https://github.com/meMehtab/notebook_sidebar_workflow.git)
+git clone https://github.com/meMehtab/notebook_sidebar_workflow.git
 cd notebook_sidebar_workflow
 ```
 
@@ -78,6 +78,12 @@ That's it! No complex configuration files, no mysterious environment variables, 
 
 - **Performance**: Large schemas (hundreds of tables) might make the interface sluggish. The search helps, but there's room for optimization.
 
+## Screenshots
+![Home Page](images/Screenshot from 2025-07-07 17-51-04.png)
+![Login Successful](images/Screenshot from 2025-07-07 18-11-48.png)
+![Browse Schema](images/Screenshot from 2025-07-07 18-11-54.png)
+![AI Chat](images/Screenshot from 2025-07-07 18-12-01.png)
+
 ## Future Enhancements
 
 ### The "When I Have More Time" List
@@ -101,16 +107,3 @@ That's it! No complex configuration files, no mysterious environment variables, 
 - **TypeScript**: For when you want to catch bugs before they become "features"
 - **Tailwind CSS**: Utility-first CSS that doesn't make you want to throw your laptop
 - **Lucide React**: Beautiful icons that don't require a PhD in SVG
-
-### Architecture
-
-The app follows a simple but effective pattern:
-- **Context API**: For global state management (simpler than Redux, less mysterious than Zustand)
-- **Component Composition**: Each feature is its own component with clear responsibilities
-- **Mock Services**: Clean separation between UI and data layer, making it easy to swap in real services later
-
-
-
----
-
-Built with ❤️ and probably too much coffee. If you find this useful, star the repo. If you find bugs, well, that's what issues are for.
